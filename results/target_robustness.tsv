@@ -1,0 +1,9 @@
+Flux solution method	Expression processing method	AGC1	PAS_chr3_0834
+pFBA	Maximum scaling	3/92	IF
+pFBA	99th percentile scaling	4/81	2/31
+pFBA	Log-transformation	4/77	NP
+pFBA	Rank-based scaling	4/77	NP
+L2	Maximum scaling	4/121	IF
+L2	99th percentile scaling	6/76	14/48
+L2	Log-transformation	6/125	7/84
+L2	Rank-based scaling	6/124	18/86
